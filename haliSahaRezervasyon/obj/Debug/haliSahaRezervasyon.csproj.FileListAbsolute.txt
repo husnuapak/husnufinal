@@ -1,0 +1,60 @@
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.exe.config
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.exe
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.pdb
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form1.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Properties.Resources.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.CopyComplete
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.exe
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.pdb
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form2.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form3.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Migrations.CreateSaatDurumColumnInSaatlersTable.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.exe.config
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.exe
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.pdb
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form1.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form2.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form3.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Properties.Resources.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.CopyComplete
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.exe
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.pdb
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form4.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Migrations.InitialCreate.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Migrations.CreateNotesColumnInRezervasyonsTable.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon - Kopya\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Migrations.CreatePayCheckColumnInRezervasyonsTable.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.exe.config
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.exe
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\bin\Debug\haliSahaRezervasyon.pdb
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form1.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form2.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form3.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Form4.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Migrations.InitialCreate.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Migrations.CreateNotesColumnInRezervasyonsTable.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Migrations.CreatePayCheckColumnInRezervasyonsTable.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.Properties.Resources.resources
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.csproj.CopyComplete
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.exe
+C:\Users\Admin\source\repos\haliSahaRezervasyon2 - Kopya (2)\haliSahaRezervasyon\obj\Debug\haliSahaRezervasyon.pdb
